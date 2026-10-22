@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "wss_data_test"
+authors:
+  - given-names: "C. R."
+    family-names: "Weber"
+repository-code: "https://github.com/crweber9874/wss_data_test"
